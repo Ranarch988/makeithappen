@@ -150,3 +150,14 @@ border-radius:15px;
 font-size:20px;
 
 }
+#version{
+    position: fixed;
+    top: 18px;
+    left: 18px;
+    color: #7CFFB2;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    text-shadow: 0 0 8px #33ff99;
+    opacity: .8;
+    z-index: 100;
+}
