@@ -16,7 +16,7 @@ button.onclick = () => {
   overlay.style.display = "block";
 
   letter.style.display = "block";
-
+  document.getElementById("ding").play();
   setTimeout(() => {
     letter.classList.add("show");
   }, 50);
